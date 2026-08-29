@@ -2,25 +2,25 @@
 <rss version="2.0">
     <channel>
       <title>Quartz 5</title>
-      <link>https://github.com/cyber-lampung</link>
+      <link>https://portofolio-ew7u.vercel.app</link>
       <description>Last 10 notes on Quartz 5</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Tag Index</title>
-    <link>https://github.com/cyber-lampung/tags/</link>
-    <guid>https://github.com/cyber-lampung/tags/</guid>
+    <link>https://portofolio-ew7u.vercel.app/tags/</link>
+    <guid>https://portofolio-ew7u.vercel.app/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 29 Aug 2026 15:51:38 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 16:23:05 GMT</pubDate>
   </item><item>
     <title>Pembelajaran Pentesting PortSwigger XSS</title>
-    <link>https://github.com/cyber-lampung/pembelajaran-pentesting-portswigger-xss</link>
-    <guid>https://github.com/cyber-lampung/pembelajaran-pentesting-portswigger-xss</guid>
+    <link>https://portofolio-ew7u.vercel.app/pembelajaran-pentesting-portswigger-xss</link>
+    <guid>https://portofolio-ew7u.vercel.app/pembelajaran-pentesting-portswigger-xss</guid>
     <description><![CDATA[ Apa itu Cross Site Scripting ? adalah sebuah kerentanan website yang memungkinkan penyerang untuk mengkompromikan tentang interaksi yang dimiliki pengguna dengan aplikasi yang rentan. ]]></description>
     <pubDate>Sat, 29 Aug 2026 15:35:18 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://github.com/cyber-lampung/</link>
-    <guid>https://github.com/cyber-lampung/</guid>
+    <link>https://portofolio-ew7u.vercel.app/</link>
+    <guid>https://portofolio-ew7u.vercel.app/</guid>
     <description><![CDATA[  ]]></description>
     <pubDate>Sat, 29 Aug 2026 15:35:18 GMT</pubDate>
   </item>
